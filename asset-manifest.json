@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ResumeBuilder/static/css/main.df0880ff.css",
+    "main.js": "/ResumeBuilder/static/js/main.fe456d44.js",
+    "static/js/703.4f1d69e5.chunk.js": "/ResumeBuilder/static/js/703.4f1d69e5.chunk.js",
+    "static/js/27.70a13509.chunk.js": "/ResumeBuilder/static/js/27.70a13509.chunk.js",
+    "static/js/787.61b62c3a.chunk.js": "/ResumeBuilder/static/js/787.61b62c3a.chunk.js",
+    "static/media/background-1.jpg": "/ResumeBuilder/static/media/background-1.467ad52d6c03873689c2.jpg",
+    "index.html": "/ResumeBuilder/index.html",
+    "main.df0880ff.css.map": "/ResumeBuilder/static/css/main.df0880ff.css.map",
+    "main.fe456d44.js.map": "/ResumeBuilder/static/js/main.fe456d44.js.map",
+    "703.4f1d69e5.chunk.js.map": "/ResumeBuilder/static/js/703.4f1d69e5.chunk.js.map",
+    "27.70a13509.chunk.js.map": "/ResumeBuilder/static/js/27.70a13509.chunk.js.map",
+    "787.61b62c3a.chunk.js.map": "/ResumeBuilder/static/js/787.61b62c3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df0880ff.css",
+    "static/js/main.fe456d44.js"
+  ]
+}
